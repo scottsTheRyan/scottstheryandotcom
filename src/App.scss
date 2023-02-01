@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+// start-up default react logo
+// .App-logo {
+//   height: 40vmin;
+//   pointer-events: none;
+// }
+
+// start-up default react media
+// @media (prefers-reduced-motion: no-preference) {
+//   .App-logo {
+//     animation: App-logo-spin infinite 20s linear;
+//   }
+// }
+
+.App-header {
+  background-color:  #fefbfb;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color:  #7d7c7c;
+}
+
+.App-link {
+  color: #7d7c7c;
+}
+
+// start-up default react logo spinning
+// @keyframes App-logo-spin {
+//   from {
+//     transform: rotate(0deg);
+//   }
+//   to {
+//     transform: rotate(360deg);
+//   }
+// }
