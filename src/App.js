@@ -14,6 +14,7 @@ function App() {
         <Route path='error' element={<Error />} />
         <Route path='science' element={<Science />} />
         <Route path='thearts' element={<TheArts />} />
+        <Route path='*' element={<Error />} />
       </Routes>
     </BrowserRouter>
   );
