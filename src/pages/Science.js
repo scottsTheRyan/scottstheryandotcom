@@ -1,11 +1,11 @@
-const Products = () => {
+const Science = () => {
   return (
     <>
       <section className='section'>
-        <h2>products</h2>
+        <h2>science</h2>
       </section>
     </>
   );
 };
 
-export default Products;
+export default Science;
